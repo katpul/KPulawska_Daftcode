@@ -1,0 +1,36 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width:100%; 
+  text-align: left;
+  max-width: 700px;
+  background: #FFFFFF;
+}
+
+#table{
+	margin: 20px;
+}
+
+td{
+	padding: 5px;
+	font-size: 22px;
+	width: 100%;
+}
+
+button, input {
+  font-size: 14px;
+  line-height: 1.4;
+  padding: 13px 20px;
+  border-radius: 4px;
+  top: 0;
+  background: #FFFFFF;
+  margin-top: 50px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #1A1C22;
+  margin-bottom: 20px;
+}
+
+button{
+	margin-left: 10px;
+}
